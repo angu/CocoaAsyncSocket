@@ -30,7 +30,7 @@ Updated and maintained by Deusty LLC and the Apple development community.
 
   # dispatch_queue_set_specific() is available in OS X v10.7+ and iOS 5.0+
   s.ios.deployment_target = '5.0'
-  s.tvos.deployment_target = '9.2'
+  s.tvos.deployment_target = '9.1'
   s.osx.deployment_target = '10.7'
 
   s.ios.frameworks = 'CFNetwork', 'Security'
